@@ -1,0 +1,11 @@
+{
+  "name": "merge-time-ranges",
+  "version": "1.0.0",
+  "description": "Merge overlapping or near time ranges with threshold (SDE Assignment - Nov 2025)",
+  "main": "my-module.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Ratnesh Jatav",
+  "license": "ISC"
+}
